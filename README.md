@@ -1,9 +1,4 @@
 ## From Chatgpt
-
----
-title: Madison Conley | Portfolio
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +8,8 @@ title: Madison Conley | Portfolio
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    :root {
+    :root 
+    {
       --pink-lightest: #FBEAF0;
       --pink-light: #F4C0D1;
       --pink-mid: #ED93B1;
@@ -157,8 +153,8 @@ title: Madison Conley | Portfolio
   <footer>
     <p>madison.conley@mvsu.edu &middot; (901) 949-2994</p>
     <div class="social-links">
-      <a href="https://github.com" target="_blank">GitHub</a>
-      <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+      <a href="https://github.com/mconley712" target="_blank">GitHub</a>
+      <a href="www.linkedin.com/in/madison-conley-a137293aa" target="_blank">LinkedIn</a>
     </div>
     <p style="margin-top: 8px; font-size: 12px;">© 2026 Madison Conley</p>
   </footer>
